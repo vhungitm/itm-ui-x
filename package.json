@@ -1,6 +1,6 @@
 {
   "name": "itm-ui-x",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "ITM UI",
   "keywords": [
     "react",
@@ -11,8 +11,8 @@
   ],
   "license": "MIT",
   "author": {
-    "name": "Stephen J. Collings",
-    "email": "stevoland@gmail.com"
+    "name": "Van Hung",
+    "email": "vhungitm@gmail.com"
   },
   "repository": {
     "type": "git",

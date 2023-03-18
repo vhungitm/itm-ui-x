@@ -1,7 +1,3 @@
-import React from 'react';
-
-const Index = () => {
-  return <div>Index</div>;
-};
-
-export default Index;
+export * from './Button';
+export * from './Field';
+export * from './FormField';
